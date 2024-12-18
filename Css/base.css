@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+ul{
+    list-style-type:none;
+}
+
+a{
+    text-decoration: none;
+}
+.container{
+    margin:auto;
+    height: 40px;
+    width:calc(100% - 400px);
+ 
+}
+:root{
+    --maincolor:rgba(251, 46, 134, 1);
+    }
+.row{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
